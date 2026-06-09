@@ -1,0 +1,22 @@
+{
+    "1": {
+        "nombre": "javier",
+        "contacto": "javier@",
+        "direccion": "calle 20"
+    },
+    "2": {
+        "nombre": "gabo",
+        "contacto": "gabo@",
+        "direccion": "calle 13"
+    },
+    "3": {
+        "nombre": "luis",
+        "contacto": "luis@",
+        "direccion": "calle 8"
+    },
+    "4": {
+        "nombre": "fercho",
+        "contacto": "fercho@",
+        "direccion": "calle 24"
+    }
+}

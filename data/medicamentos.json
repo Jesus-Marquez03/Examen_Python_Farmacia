@@ -1,0 +1,102 @@
+{
+    "1": {
+        "nombre": "paracetamol",
+        "precio": 10000.0,
+        "stock": 150,
+        "fechaExpiracion": "12/10/2025",
+        "proveedor": {
+            "nombre": "julian",
+            "contacto": "julian@"
+        }
+    },
+    "2": {
+        "nombre": "ibuprofeno",
+        "precio": 90000.0,
+        "stock": 60,
+        "fechaExpiracion": "12/02/2026",
+        "proveedor": {
+            "nombre": "andres",
+            "contacto": "andres@"
+        }
+    },
+    "3": {
+        "nombre": "aspirina",
+        "precio": 32000.0,
+        "stock": 30,
+        "fechaExpiracion": "12/06/2070",
+        "proveedor": {
+            "nombre": "julian",
+            "contacto": "julian@"
+        }
+    },
+    "4": {
+        "nombre": "amoxicilina",
+        "precio": 20000.0,
+        "stock": 75,
+        "fechaExpiracion": "12/06/2026",
+        "proveedor": {
+            "nombre": "julian",
+            "contacto": "julian@"
+        }
+    },
+    "5": {
+        "nombre": "cetirizina",
+        "precio": 30000.0,
+        "stock": 110,
+        "fechaExpiracion": "11/06/2026",
+        "proveedor": {
+            "nombre": "andres",
+            "contacto": "andres@"
+        }
+    },
+    "6": {
+        "nombre": "losartan",
+        "precio": 30000.0,
+        "stock": 95,
+        "fechaExpiracion": "11/06/2026",
+        "proveedor": {
+            "nombre": "andres",
+            "contacto": "andres@"
+        }
+    },
+    "7": {
+        "nombre": "metformina",
+        "precio": 30000.0,
+        "stock": 180,
+        "fechaExpiracion": "11/06/2026",
+        "proveedor": {
+            "nombre": "andres",
+            "contacto": "andres@"
+        }
+    },
+    "8": {
+        "nombre": "atorvastatina",
+        "precio": 30000.0,
+        "stock": 200,
+        "fechaExpiracion": "11/06/2026",
+        "proveedor": {
+            "nombre": "andres",
+            "contacto": "andres@"
+        }
+    },
+    "9": {
+        "nombre": "clonazepam",
+        "precio": 30000.0,
+        "stock": 35,
+        "fechaExpiracion": "11/06/2026",
+        "proveedor": {
+            "nombre": "andres",
+            "contacto": "andres@"
+        }
+    },
+    "10": {
+        "nombre": "loratadina",
+        "precio": 30000.0,
+        "stock": 130,
+        "fechaExpiracion": "11/06/2026",
+        "proveedor": {
+            "nombre": "andres",
+            "contacto": "andres@"
+        }
+    }
+}

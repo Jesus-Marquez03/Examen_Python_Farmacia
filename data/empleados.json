@@ -1,0 +1,17 @@
+{
+    "1": {
+        "nombre": "marcos",
+        "cargo": "ingeniero",
+        "fecha_contratacion": "12/12/2025"
+    },
+    "2": {
+        "nombre": "fabian",
+        "cargo": "farmacologo",
+        "fecha_contratacion": "15/09/2025"
+    },
+    "3": {
+        "nombre": "paco",
+        "cargo": "ingeniero",
+        "fecha_contratacion": "11/03/2026"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "1": {
+        "nombre": "acetaminofen",
+        "stock_registrado": 80,
+        "stock_teorico": 85,
+        "diferencia": 5
+    },
+    "2": {
+        "nombre": "ibuprofeno",
+        "stock_registrado": 40,
+        "stock_teorico": 38,
+        "diferencia": -2
+    },
+    "3": {
+        "nombre": "clonazepam",
+        "stock_registrado": 100,
+        "stock_teorico": 120,
+        "diferencia": 20
+    }
+}

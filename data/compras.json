@@ -1,0 +1,26 @@
+{
+    "1": {
+        "fechaCompra": "02/06/2026",
+        "proveedor": {
+            "nombre": "gabo",
+            "contacto": "gabo@"
+        },
+        "medicamentosComprados": [
+            {
+                "nombreMedicamento": "ibuprofeno",
+                "cantidadComprada": 10,
+                "precioCompra": 20000.0
+            },
+            {
+                "nombreMedicamento": "loratadina",
+                "cantidadComprada": 10,
+                "precioCompra": 30000.0
+            },
+            {
+                "nombreMedicamento": "clonazepam",
+                "cantidadComprada": 10,
+                "precioCompra": 40000.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "1": {
+        "nombre": "laura",
+        "direccion": "calle 30",
+        "telefono": 3104808612
+    },
+    "2": {
+        "nombre": "maria",
+        "direccion": "calle 60",
+        "telefono": 3156708421
+    },
+    "3": {
+        "nombre": "mafe",
+        "direccion": "calle 10",
+        "telefono": 9999999999
+    }
+}
